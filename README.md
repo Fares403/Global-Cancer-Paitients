@@ -113,7 +113,3 @@ The dataset includes the following:
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
----
-
-Would you like me to format this as a downloadable `README.md` file for you?
